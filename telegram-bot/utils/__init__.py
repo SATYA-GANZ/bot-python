@@ -1,0 +1,1 @@
+# Utils package for Beauty Brand AI Bot
